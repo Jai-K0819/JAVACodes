@@ -1,4 +1,4 @@
-package patterncodes1;
+package PatternCodes;
 
 public class Patterns {
 	

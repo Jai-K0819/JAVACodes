@@ -1,7 +1,5 @@
 package StringCodes;
 
-import java.io.*;
-
 /*
 
 Input: "i love my country"

@@ -1,0 +1,2 @@
+To login Heroku: heroku login
+To access database: heroku pg:psql --app <HerokAppName> 
